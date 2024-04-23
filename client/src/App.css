@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  margin: 0 auto;
+}
+/* In your main CSS file (e.g., src/index.css) */
+body.light {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+@keyframes pulse1 {
+  80% {
+    opacity: 1;
+
+    filter: hue-rotate(80deg);
+  }
+}
+.animate-pulse1 {
+  animation: pulse1 2s ease-in-out infinite reverse;
+}

@@ -1,0 +1,1677 @@
+{
+  "dimension": [
+    {
+      "label": "GHO",
+      "display": "Indicator"
+    },
+    {
+      "label": "PUBLISHSTATE",
+      "display": "PUBLISH STATES"
+    },
+    {
+      "label": "YEAR",
+      "display": "Year"
+    },
+    {
+      "label": "REGION",
+      "display": "WHO region"
+    },
+    {
+      "label": "COUNTRY",
+      "display": "Countries, territories and areas"
+    },
+    {
+      "label": "SEX",
+      "display": "Sex"
+    }
+  ],
+  "fact": [
+    {
+      "dims": {
+        "COUNTRY": "Afghanistan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Albania",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Algeria",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Angola",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Antigua and Barbuda",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Argentina",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Armenia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Australia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "81.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Austria",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Azerbaijan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Bahamas",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Bahrain",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "75.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Bangladesh",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Barbados",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Belarus",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Belgium",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Belize",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Benin",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "61.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Bhutan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Bolivia (Plurinational State of)",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Bosnia and Herzegovina",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Botswana",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "58.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Brazil",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Brunei Darussalam",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Bulgaria",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Burkina Faso",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Burundi",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "61.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Cote d'Ivoire",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Cabo Verde",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Cambodia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "67.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Cameroon",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Canada",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Central African Republic",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "50.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Chad",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "58.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Chile",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "China",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Colombia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Comoros",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "65.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Congo",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Costa Rica",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Croatia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "75.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Cuba",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "75.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Cyprus",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "81.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Czechia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Democratic People's Republic of Korea",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Democratic Republic of the Congo",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Denmark",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Djibouti",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "64.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Dominican Republic",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Ecuador",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Egypt",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "El Salvador",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Equatorial Guinea",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Eritrea",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "61.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Estonia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Eswatini",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "53.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Ethiopia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "66.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Fiji",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "65.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Finland",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "France",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Gabon",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Gambia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Georgia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Germany",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Ghana",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Greece",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Grenada",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Guatemala",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Guinea",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "59.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Guinea-Bissau",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "57.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Guyana",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "62.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Haiti",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Honduras",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Hungary",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Iceland",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "India",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Indonesia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Iran (Islamic Republic of)",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "75.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Iraq",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Ireland",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Israel",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Italy",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Jamaica",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Japan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "81.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Jordan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "77.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Kazakhstan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Kenya",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Kiribati",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "56.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Kuwait",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Kyrgyzstan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Lao People's Democratic Republic",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "66.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Latvia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Lebanon",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Lesotho",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "47.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Liberia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Libya",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Lithuania",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Luxembourg",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Madagascar",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "64.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Malawi",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "62.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Malaysia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Maldives",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Mali",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "62.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Malta",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Mauritania",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Mauritius",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Mexico",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Micronesia (Federated States of)",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Mongolia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Montenegro",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Morocco",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Mozambique",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "54.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Myanmar",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "65.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Namibia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Nepal",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Netherlands (Kingdom of the)",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "New Zealand",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Nicaragua",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Niger",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "62.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Nigeria",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "61.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "North Macedonia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Norway",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "81.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Oman",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Pakistan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "64.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Panama",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Papua New Guinea",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Paraguay",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Peru",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Philippines",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "67.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Poland",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Portugal",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Qatar",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Republic of Korea",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Republic of Moldova",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Romania",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Russian Federation",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Rwanda",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "66.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Saint Lucia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Saint Vincent and the Grenadines",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Samoa",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Sao Tome and Principe",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Saudi Arabia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Senegal",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "66.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Serbia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Seychelles",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Sierra Leone",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "59.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Singapore",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "81.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Slovakia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Slovenia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "78.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Solomon Islands",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "62.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Somalia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "54.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "South Africa",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "62.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "South Sudan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "60.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Spain",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Sri Lanka",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Sudan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "67.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Suriname",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Sweden",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "80.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Switzerland",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "81.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Syrian Arab Republic",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "71.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Turkiye",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Tajikistan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "67.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Thailand",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Timor-Leste",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "67.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Togo",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "61.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Tonga",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Trinidad and Tobago",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "72.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Tunisia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "74.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Turkmenistan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "66.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Uganda",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "63.2"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Ukraine",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "68.0"
+    },
+    {
+      "dims": {
+        "COUNTRY": "United Arab Emirates",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "75.1"
+    },
+    {
+      "dims": {
+        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "79.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "United Republic of Tanzania",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "65.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "United States of America",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "76.3"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Uruguay",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "73.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Uzbekistan",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "70.8"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Vanuatu",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "62.7"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Venezuela (Bolivarian Republic of)",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.9"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Viet Nam",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "69.6"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Yemen",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "64.4"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Zambia",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "59.5"
+    },
+    {
+      "dims": {
+        "COUNTRY": "Zimbabwe",
+        "YEAR": "2019",
+        "GHO": "Life expectancy at birth (years)",
+        "SEX": "Male"
+      },
+      "Value": "57.5"
+    }
+  ]
+}
